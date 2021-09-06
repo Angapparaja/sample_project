@@ -1,0 +1,77 @@
+body{
+    background-color:rgba(177, 39, 231, 0.801);
+}
+
+.btn-primary{
+    color:   #fff;
+    background-color: #813AFE;
+    border-color: #813AFE;
+
+}
+
+.icon-img{
+    width: 50px;
+    height: 50px;
+    margin-left: 515px;
+    margin-top:100px;
+   margin-bottom: -75px;
+    border-radius: 50%;
+    border:1px solid green;
+    
+}
+h3{
+    text-align: center;
+    font-weight: 500;
+    font-family: 'Fira Sans',sans-serif;
+}
+h5{
+    text-align: center;
+    font-size: 10px;
+}
+.reset{
+    color:rgb(247, 243, 243);
+
+}
+
+.resset{
+    font-weight: bold;
+}
+
+
+.form-control {
+    display: block;
+    width: 100%;
+    height: calc(1.5em + .75rem + 2px);
+
+    padding: .375rem .75rem;
+    padding-left:40px;
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 1.5;
+    color: #495057;
+    background-color: #fff;
+    background-clip: padding-box;
+    border: 1px solid #ced4da;
+    border-radius: .25rem;
+    transition: border-color .15s ease-in-out,box-shadow .15s ease-in-out;
+}
+svg {
+    stroke: currentcolor;
+    fill: currentcolor;
+    stroke-width: 0;
+    height: 1em;
+    width: 1em;  
+    margin-top: -70px;
+    margin-left: 10px;
+    color:rgba(0, 0, 0, 0.315);
+}
+svg {
+    overflow:hidden;
+    vertical-align: middle;
+}
+.form-group {
+    margin-bottom: 0.1rem;
+}
+.shadow-lg {
+    box-shadow: 0 1rem 3rem rgba(76, 11, 226, 0.404)!important;
+}
